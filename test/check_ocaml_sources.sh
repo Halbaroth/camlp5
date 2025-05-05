@@ -1,6 +1,7 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # From top:
 # test/check_ocaml_sources.sh
+set -e
 
 dir='../../ocaml_src/trunk'
 suff=ml
